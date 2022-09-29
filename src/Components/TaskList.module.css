@@ -1,0 +1,19 @@
+.task-container {
+  height: max-content;
+  width: 90%;
+  margin: 2rem auto;
+  border-radius: 8px;
+  background-color: #e0e0e0;
+  padding: 2rem;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+}
+.info h3 {
+  display: inline-block;
+  padding-right: 1rem;
+}
